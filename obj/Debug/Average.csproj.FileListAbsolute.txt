@@ -1,0 +1,14 @@
+E:\visual\Average\Average\obj\Debug\Average.Form1.resources
+E:\visual\Average\Average\obj\Debug\Average.Properties.Resources.resources
+E:\visual\Average\Average\obj\Debug\Average.csproj.GenerateResource.Cache
+E:\visual\Average\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+E:\visual\Average\Average\bin\Debug\حساب المعدل التراكمي.exe.config
+E:\visual\Average\Average\bin\Debug\حساب المعدل التراكمي.exe.manifest
+E:\visual\Average\Average\bin\Debug\حساب المعدل التراكمي.application
+E:\visual\Average\Average\bin\Debug\حساب المعدل التراكمي.exe
+E:\visual\Average\Average\bin\Debug\حساب المعدل التراكمي.pdb
+E:\visual\Average\Average\obj\Debug\حساب المعدل التراكمي.TrustInfo.xml
+E:\visual\Average\Average\obj\Debug\حساب المعدل التراكمي.exe.manifest
+E:\visual\Average\Average\obj\Debug\حساب المعدل التراكمي.application
+E:\visual\Average\Average\obj\Debug\حساب المعدل التراكمي.exe
+E:\visual\Average\Average\obj\Debug\حساب المعدل التراكمي.pdb
